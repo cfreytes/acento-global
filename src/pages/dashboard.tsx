@@ -1,5 +1,5 @@
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
+import { Card, CardContent, CardHeader, CardTitle } from "../components/ui/card";
+import { Button } from "../components/ui/card"";
 import { Plus, Users, Calendar, MessageSquare, FolderOpen } from "lucide-react";
 import { Link } from "react-router-dom";
 
